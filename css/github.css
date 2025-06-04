@@ -1,14 +1,14 @@
 // doctype css>
 h1{
-	"color: "rgb(24, 27, 167)"";
-	"font-size:"22px"";
-	"font-family:"(Arial, sans-serif)"";
+	color: "rgb(24, 27, 167)";
+	font-size:"22px";
+	font-family:"(Arial, sans-serif)";
 }
 
 p{
-	"color: "blue"";
-	"font-size: "16px"";
-	"font-family: "Arial, sans-serif"";
+	color: "blue";
+	font-size: "16px";
+	font-family: "Arial, sans-serif";
 }
 button:active{
 	background-color: "white";
